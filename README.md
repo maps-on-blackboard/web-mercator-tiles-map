@@ -1,4 +1,4 @@
-This repository is part of my blog[ maps-on-blackboard](http://maps-on-blackboard.com) for article [Maps of web emrcator tiles](http://maps-on-blackboard.com/articles/web-mercator-tiles-map/)
+This repository is part of my blog[ maps-on-blackboard](http://maps-on-blackboard.com) for article [Maps of web mercator tiles](http://maps-on-blackboard.com/articles/web-mercator-tiles-map/)
 
 map1.html from this repository is used in the article.
 
